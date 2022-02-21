@@ -1,0 +1,312 @@
+================================================================
+	     * TPDP SoD - Extended FC (unlocked) *
+================================================================
+		     [ IMPORTANT NOTICE ]
+
+I made this mod without any permission of Barudo and his team.
+Any further changes is not made by the SoD - Extended mod team so don't blame them if something wrong happens with your game.
+You can find me on TPDP discord, ping me @Netosen.
+
+Features
+- Allows you to obtain various bosses and EX puppets from the SoD - Extended mod.
+- Also includes Fanchara mod by Wower (no changes).
+
+There are still unobtainable puppets that need to be added in future updates.
+- Currently focuses on extended bosses.
+
+================================================================
+	 * Mod only exclusive who has SoD extended mod *
+		  * For experimental use only *
+================================================================
+
+[ FAQ ] (frequently asked question)
+
+Can I use my use my current save file?
+- Yes
+
+Where can I find (X) puppet?
+- Scroll down a bit and you will find the [ Puppet Locations ] section.
+
+Puppets shows invisible on the overworld
+- They don't have a puppet animation, the reason is SoD - Extended don't have this animatios on unobtainable puppets so
+  they will appear invisible on the overworld.
+	> Might work with that in the future
+
+(X) puppet only showing number on puppet box
+- Unobtainable puppets don't have a proper sprite so it's currently numbers, is what shown on SoD - Extended mod.
+
+Can I bring my game back to the original SoD - Extended mod?
+- Yes, if you have any help on updating the game check TPDP discord.
+
+Will my puppets dissapear when I update the game back to the original SoD - Extended?
+- No, they're still there and usable :D
+
+	> Fanchara puppets will dissapear *if* you use the SoD - Exteded .jar file instead of FC (Fanchara) mod *
+	> Any help on bringing your game back to the mod or original DM me on discord. You can also ask how on TPDP discord.
+
+Why is (X) puppet has different move set?
+- Extended bosses have a different move set that cannot be obtained on normal puppets, I did not replace any but add it instead.
+- Mod is experimental so it can be bring back to original. While in use of (X) skill and upating back to the original
+  SoD - Extended mod, skill shows (!) on the left side but works perfectly fine.
+	> Skills with (!) mark dissalows you to do netplay
+
+[VERY IMPORTANT] Why is (X) puppet the same puppet as (X)?
+- Sod - Extended puppets are compressed into a 3 in 1 puppet, 1 DUMMY(X) puppet contains 3 different styles and outfit.
+	> Each style represents a different puppet, Extra (1st), Extra (2nd) and Extra (3rd), each represents a different puppet.
+	> Outfit is based on their style, Maribel EX puppet shows what type of costume she uses,  by means that all type doesn't mean that
+	  they uses the same outfit.
+	* improper use of outfit is not recommended *
+
+	> Example: DUMMY7 is Renko EX and DUMMY7 is Maribel EX - what!?
+		- Renko EX has extra style, same to Maribel EX, this is very confusing but I'll make it simple.
+		- Renko EX uses the *first (1st)* Extra style while Maribel EX uses the *second (2nd)* extra, same as the outfit.
+			> Every puppet in the list shows what ability the syle has, for example DUMMY7 extra (1) has "Fascination" ability then
+			  the 2nd extra has "Boundary Savior" ability, they don't share the same ability, each refering to a different puppet.
+			> Maribel EX uses normal costume while Renko EX being Alt Color/Alternate.
+
+	> Any further information about this thing you can talk to me on discord.
+
+Where can I message you?
+- You can talk to me on discord, Athaza is forgotten#5743.
+- You can also find me on TPDP discord, @Netosen.
+
+[ Other mod info ]
+
+Puppets are modified to have the skill of (X) boss puppet. Example Extra Keiki, don't have "Electric Heritage" & "Shooting Press" can
+now be obtained by leveling or by spell card.
+
+Updating the game back to the original will cause "Electric Heritage" & "Shooting Press" skills become skills with (!) on the left side,
+means that they are used in illegal way and cannot be used during netplay but still useable, skill replacement will cause the skill to
+dissapear permanently.
+
+I add their skills on unused skill space, I try not to replace skills as possible.
+
+Puppets that has 2 or more skills that are the same only shows 1 on moveset editing. I added the exact replica of the skill but it only
+allows you to use no more than one at a time.
+	> Game code
+
+Updating your game back to the original makes the (modified) puppets loose their skills leaving [!] on the left side of the skill. Having
+this makes you ineligiable for netplay.
+
+[ Mod Versions ]
+
+Here are the list of TPDP SoD - Extended FC (unlocked) mod.
+(UN) = Unobtainable
+(OB) = Obtainable
+
+Version 1.2 (current version)
+- Fixed DUMMY6 Extra (1) no Yukari EX moveset
+
+Version 1.1.2
+- Read me .txt file reworked
+
+Version 1.1.1
+- Read me .txt file reworked
+- Added screenshots folder
+
+Version 1.1
+- Fixed DUMMY5, DUMMY6, DUMMY7, DUMMY8 puppets not showing
+
+Version 1
+- Makes available puppets obtainable
+- Private release
+
+Bata 0.2
+- Adds Barudo's puppets (UN)
+- Adds Dr. Latency's puppets (UN)
+- Puppet movesets reworked
+- Getsu Sisters puppet (UN)
+
+Beta 0.1
+- Adds Getsu Sisters (OB)
+- Puppet movesets reworked
+
+[ Dev Quotes ]
+
+> I release the mod quite early, well it doesn't take long to make this mod.
+
+> Reimu EX & Marisa EX has no proper info yet and not recommended for battling,
+  this text file does not have any information about these puppets but will be in future updates.
+
+================================================================
+	     * Might cause unbalanced gameplay *
+================================================================
+
+[ Puppet Locations ]
+
+Please read FAQ & Other mod info, it is "highly recommended" to read it before you proceed.
+
+    Puppet encounters are levels 1-2
+Heavenly Keep		|| Encounter rate
+DUMMY2 				10%
+DUMMY6 				10%
+DUMMY1				10%
+DUMMY4				10%
+
+Realm of Dreams		|| 	---
+DUMMY6				10%
+DUMMY7				10%
+DUMMY8				10%
+DUMMY5				10%
+
+		Puppet list
+DUMMY7 > Renko EX	DUMMY2 > Stack
+DUMMY6 > Yukari EX	DUMMY6 > Dearest
+DUMMY8 > Amnisieri	DUMMY5 > Mrs Prof
+DUMMY8 > Toruastory	DUMMY1 > IZUMI
+DUMMY8 > Igmaruji	DUMMY4 > VENTEN
+DUMMY7 > Maribel EX	None > None
+DUMMY5 > Getsu Sisters	None > None
+
+	  Reworked puppet moveset
+Keiki [ Extra ]	> Adds "Electric Heritage" & "Trickster"
+None [ None ]	> None "None" & "None"
+None [ None ]	> None "None" & "None"
+None [ None ]	> None "None" & "None"
+
+[ Available puppet bosses ]
+      V       V      V
+================================================================
+			     Barudo
+================================================================
+
+= VENTEN =				= IMIZU =
+
+Puppet - DUMMY4				Puppet - DUMMY1
+Elements - Sound & Electric		Elements - Nature & Light
+Style - Extra				Style - Extra (2nd)
+Ability - Invalidate			Ability - Unbound
+Mark - Green				Mark - Red
+Costume - Normal			Costume - Alt Color/Alternate
+Item - Straw Doll			Item - Silver Hairpin
+
+Skills (lvl 100)			Skills (lvl 100)
+> Score Web				> Dual Spark
+> Blind Trap				> Power Drain
+> Thunderlord's Scorn			> Reckless Dive
+> Lightning Speed			> Distortion Bomb
+
+Replaced skills				Replaced skills
+> Yang Energy = Lightning Speed		> Yin Energy = Dual Spark
+
+
+= Mrs Prof =				= Dearest =
+
+Puppet - DUMMY5				Puppet - DUMMY6
+Elements - Illusion & Electric		Elements - Steel & Fighting
+Style - Extra (3rd)			Style - Extra (3rd)
+Ability - Unwavering Heart		Ability - Master's Defense
+Mark - Black				Mark - Red
+Costume - Alt Costume			Costume - Alt Costume
+Item - Tengu Geta			Item - Dream Shard
+
+Skills					Skills (lvl 70) / uses spell cards
+> Bombardment				> Blade Dance
+> Stun Bomb				> Shooting Press
+> First Aid				> Flying Frenzy
+> Lightning Speed			> Aura Drain
+
+
+= Cakey =				= Stack =
+
+Puppet - Keiki				Puppet - DUMMY2
+Elements - Warped & Electric		Elements - Dream
+Style - Extra				Style - Extra (1st)
+Ability - Idola Diabolus		Ability - Wisdom Eye
+Mark - Green				Mark - Green
+Costume - Alt Costume			Costume - Normal
+Item - Counter Bit			Item - Food Rations
+
+Skills (lvl 70) / has spell cards	Skills (lvl 70)
+> Electric Heritage			> Supernova
+> Distortion Bomb			> Supernova
+> Trickster				> Supernova
+> Shooting Press			> Goddess' Decree
+
+
+================================================================
+			  Dr. Latency
+================================================================
+
+= Renko EX =				= Yukari EX =
+
+Puppet - DUMMY7				Puppet - DUMMY6
+Elements - Dream & Nether		Elements - Illusion & Warped
+Style - Extra (1st)			Style - Extra (1st)
+Ability - Fascination			Ability - Cloak of Darkness
+Mark - Blue				Mark - Green
+Costume - Alt Color/Alternate		Costume - Normal
+Item - Food Rations			Item - Counter Bit
+
+Skills (lvl 70)				Skills (lvl 70)
+> Decrescendo				> White Mist
+> Calamity				> Quadruple Barrier
+> Stealth Trap				> Dense Fog Bloom
+> First Aid				> First Aid
+
+
+= Amnisieri =				= Toruastory =
+
+Puppet - DUMMY8				Puppet - DUMMY8
+Element - Dark & Warped			Element - Poison & Sound
+Stlye - Speed				Style - Defense
+Ability - Up Tempo			Ability - Unjustness
+Mark - Red				Mark - White
+Costume - Normal			Costume - Alt Color/Alternate
+Item - Yggdrasil Seed			Item - Life Charm
+
+Skills (lvl 70)				Skills (lvl 70) / uses skill cards
+> Calamity Scythe			> Supernatural Border
+> Armor Pierce				> Scorn
+> First Aid				> First Aid
+> Swallow Cut				> Calamity
+
+
+= Igmaruji =				= Maribel EX =
+
+Puppet - DUMMY8				Puppet - DUMMY7
+Element - Nether & Illusion		Element - Dream & Nether
+Style - Assist				Style - Extra (2nd)
+Ability - Wisdom Eye			Ability - Boundary Savior
+Mark - White				Mark - Green
+Costume - Alt Costume			Costume - Normal
+Item - Tengu Geta			Item - Dream Shard
+
+Skills (lvl 70)				Skills (lvl 70) / uses spell card
+> Take Over				> Boundary Rend
+> Perch					> Boundary Rend
+> Revolving Illusions			> Continue
+> Calamity				> None
+
+
+================================================================
+		       Gengetsu & Mugetsu
+================================================================
+
+= Getsu Sisters =
+
+Puppet - DUMMY5
+Style - Extra (2nd)
+Ability - Infinite Dream
+Mark - Green
+Costume - Alt Color/Alternate
+Item - Dream Shard
+
+Skills (lvl 70) / uses spell cards
+> Speedy Barrage
+> Hallucination
+> Changeling
+> First Aid
+
+================================================================
+
+			[ Credits ]
+
+Full credits to Barudo and his team for creating SoD - Extended mod.
+	- I only make them obtainable cuz it's unfair to be a noob
+	  then you have to fight several insane bosses.
+
+TPDP SoD - Extened Fanchara (unlocked) - @Netosen 2022
+
+
+end.
