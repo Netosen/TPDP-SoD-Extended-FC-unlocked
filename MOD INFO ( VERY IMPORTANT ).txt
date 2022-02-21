@@ -1,5 +1,5 @@
 ================================================================
-	     * TPDP SoD - Extended FC (unlocked) *
+	     * TPDP SoD - Extended FC Unlocked *
 ================================================================
 		     [ IMPORTANT NOTICE ]
 
@@ -41,7 +41,7 @@ Can I bring my game back to the original SoD - Extended mod?
 Will my puppets dissapear when I update the game back to the original SoD - Extended?
 - No, they're still there and usable :D
 
-	> Fanchara puppets will dissapear *if* you use the SoD - Exteded .jar file instead of FC (Fanchara) mod *
+	> Fanchara puppets will dissapear *if* you use the SoD - Exteded file instead of FC (Fanchara) mod *
 	> Any help on bringing your game back to the mod or original DM me on discord. You can also ask how on TPDP discord.
 
 Why is (X) puppet has different move set?
